@@ -1,0 +1,73 @@
+#logo{
+    height:100px;
+    width:100px;
+    
+}
+.image1{
+    background-color: rgb(199, 230, 241);
+    height: 350px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  
+  
+    
+    
+}
+#icon{
+    margin-left: 1000px;
+   
+}
+span{
+    position: relative;
+    color:rgb(145, 69, 160);
+    font-size:30px;
+    margin-left: 350px;
+  
+  
+  
+}
+#log{
+    color:rgb(145, 69, 160); 
+    font-size:30px;
+    font-weight: bold;  
+}
+#size{
+    font-size:30px; 
+   
+}
+
+#button{
+    margin-left: 450px;
+    margin-top: 90px;
+    background-color:rgb(145, 69, 160); 
+    border:rgb(145, 69, 160); 
+    width: 200px;
+
+}
+.back{
+    background-color: rgb(199, 230, 241);
+    height: 600px;
+   
+
+}
+#home{
+    margin-left: 250px;}
+
+   #can1{
+    position: relative;
+   margin-left:980px;
+    
+   } 
+   
+   #can2{
+    position: relative;
+   margin-left:2080px;
+   margin-top: 250px;
+   height: 250px;
+   width: 400px;;
+    
+   } 
+   #can2{
+    position: relative;
+    margin-left:180px;
+   }
